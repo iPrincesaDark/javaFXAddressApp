@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd61906f-c42f-4a21-a699-6cc565b67b3c" name="Changes" comment="ajustes na Main" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2EsFxnKPjJ8MhUx4kJqZTmPRevq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "/home/josimar/Área de Trabalho/javaFX/javaFXAddressApp/src/main/java/br/com/appdahora/javafxaddressapp",
+    "last_opened_file_path": "C:/Users/Princesa Dark/Documents/ADS/Programação Visual/javaFXAddressApp-master/target/classes/br/com/appdahora/javafxaddressapp/view",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.appdahora.javafxaddressapp.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Princesa Dark\Documents\ADS\Programação Visual\javaFXAddressApp-master\target\classes\br\com\appdahora\javafxaddressapp\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Princesa Dark\Documents\ADS\Programação Visual\javaFXAddressApp-master\src\main\resources\images" />
+      <recent name="C:\Users\Princesa Dark\Documents\ADS\Programação Visual\javaFXAddressApp-master\src\main\resources\br\com\appdahora\javafxaddressapp\view" />
+      <recent name="C:\Users\Princesa Dark\Documents\ADS\Programação Visual\javaFXAddressApp-master\lib" />
+      <recent name="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.appdahora.javafxaddressapp" />
+      <recent name="br.com.appdahora.javafxaddressapp.view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.appdahora.javafxaddressapp.MainApp" />
+      <module name="javaFXAddressApp-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.appdahora.javafxaddressapp.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd61906f-c42f-4a21-a699-6cc565b67b3c" name="Changes" comment="" />
+      <created>1663376633912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663376633912</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1663379088506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663379088507</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1663379407839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663379407839</updated>
+    </task>
+    <task id="LOCAL-00003" summary="inserindo PersonOverview.fxml e PersonOverviewController.java">
+      <created>1663967691877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663967691877</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ajustes na Main">
+      <created>1663969480020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663969480020</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="inserindo PersonOverview.fxml e PersonOverviewController.java" />
+    <MESSAGE value="ajustes na Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes na Main" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
