@@ -2,6 +2,7 @@ package br.com.appdahora.javafxaddressapp;
 
 import br.com.appdahora.javafxaddressapp.model.Person;
 import br.com.appdahora.javafxaddressapp.model.PersonListWrapper;
+import br.com.appdahora.javafxaddressapp.view.BirthdayStatisticsController;
 import br.com.appdahora.javafxaddressapp.view.PersonEditDialogController;
 import br.com.appdahora.javafxaddressapp.view.PersonOverviewController;
 import br.com.appdahora.javafxaddressapp.view.RootLayoutController;
@@ -217,6 +218,30 @@ public class MainApp extends Application {
             alert.setContentText(errorMessage);
             alert.showAndWait();
 
+        }
+    }
+
+    public void showBirthdayStatistics() {
+        try {
+            // Carrega o arquivo fxml e cria um novo palco para o popup.
+            FXMLLoader loader = new FXMLLoader();
+            loader.setLocation(MainApp.class.getResource("view/BirthdayStatistics.fxml"));
+            AnchorPane page = (AnchorPane) loader.load();
+            Stage dialogStage = new Stage();
+            dialogStage.setTitle("Birthday Statistics");
+            dialogStage.initModality(Modality.WINDOW_MODAL);
+            dialogStage.initOwner(primaryStage);
+            Scene scene = new Scene(page);
+            dialogStage.setScene(scene);
+
+            // Define a pessoa dentro do controller.
+            BirthdayStatisticsController controller = loader.getController();
+            controller.setPersonData(personData);
+
+            dialogStage.show();
+
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 

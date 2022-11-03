@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd61906f-c42f-4a21-a699-6cc565b67b3c" name="Changes" comment="ajustes na Main" />
+    <list default="true" id="fd61906f-c42f-4a21-a699-6cc565b67b3c" name="Changes" comment="ajustes na Main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/address/util/LocalDateAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/view/RootLayoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/view/RootLayoutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/PersonOverview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/PersonOverview.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/RootLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/RootLayout.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="FxmlFile" />
         <option value="AnnotationType" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -36,7 +44,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2EsFxnKPjJ8MhUx4kJqZTmPRevq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "/home/josimar/Área de Trabalho/javaFX/javaFXAddressApp/src/main/java/br/com/appdahora/javafxaddressapp",
-    "last_opened_file_path": "C:/Users/Princesa Dark/Documents/ADS/Programação Visual/javaFXAddressApp-master/target/classes/br/com/appdahora/javafxaddressapp/view",
+    "last_opened_file_path": "C:/Users/Princesa Dark/Documents/ADS/Programação Visual/javaFXAddressApp-master",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -154,8 +164,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java</url>
-          <line>93</line>
-          <option name="timeStamp" value="1" />
+          <line>221</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -108,7 +108,10 @@ public class RootLayoutController {
         alert.setContentText(errorMessage);
         alert.showAndWait();
     }
-
+    @FXML
+    private void handleShowBirthdayStatistics() {
+        mainApp.showBirthdayStatistics();
+    }
     /**
      * Fecha a aplicação.
      */
