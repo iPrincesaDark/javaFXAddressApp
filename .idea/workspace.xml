@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd61906f-c42f-4a21-a699-6cc565b67b3c" name="Changes" comment="ajustes na Main">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/view/BirthdayStatisticsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/BirthdayStatistics.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="fd61906f-c42f-4a21-a699-6cc565b67b3c" name="Changes" comment="ajustes nas dependencias">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +78,9 @@
       <recent name="br.com.appdahora.javafxaddressapp" />
       <recent name="br.com.appdahora.javafxaddressapp.view" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.appdahora.javafxaddressapp" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -110,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663376633912</updated>
-      <workItem from="1667593133957" duration="393000" />
+      <workItem from="1667593133957" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663379088506</created>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663969480020</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajustes nas dependencias">
+      <created>1667593657192</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667593657192</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +168,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="inserindo PersonOverview.fxml e PersonOverviewController.java" />
     <MESSAGE value="ajustes na Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustes na Main" />
+    <MESSAGE value="ajustes nas dependencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes nas dependencias" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
