@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd61906f-c42f-4a21-a699-6cc565b67b3c" name="Changes" comment="ajustes na Main">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/address/util/LocalDateAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/view/BirthdayStatisticsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/BirthdayStatistics.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/view/RootLayoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/view/RootLayoutController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/PersonOverview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/PersonOverview.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/RootLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view/RootLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +53,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
     "last_directory_selection": "/home/josimar/Área de Trabalho/javaFX/javaFXAddressApp/src/main/java/br/com/appdahora/javafxaddressapp",
-    "last_opened_file_path": "C:/Users/Princesa Dark/Documents/ADS/Programação Visual/javaFXAddressApp-master",
+    "last_opened_file_path": "/home/josimar/Área de Trabalho/javaFXAddressApp/src/main/resources/br/com/appdahora/javafxaddressapp/view",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -69,6 +67,8 @@
       <recent name="br.com.appdahora.javafxaddressapp.model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/br/com/appdahora/javafxaddressapp/view" />
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/view" />
       <recent name="C:\Users\Princesa Dark\Documents\ADS\Programação Visual\javaFXAddressApp-master\target\classes\br\com\appdahora\javafxaddressapp\view" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -85,7 +85,7 @@
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.appdahora.javafxaddressapp.MainApp" />
-      <module name="javaFXAddressApp-master" />
+      <module name="javaFXAddressApp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.appdahora.javafxaddressapp.view.*" />
@@ -110,6 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663376633912</updated>
+      <workItem from="1667593133957" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663379088506</created>
@@ -142,6 +143,9 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -164,7 +168,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/br/com/appdahora/javafxaddressapp/MainApp.java</url>
-          <line>221</line>
+          <line>219</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
